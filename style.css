@@ -300,3 +300,16 @@ body{
         height:200px;
     }
 }
+ .education-item {
+    margin-top: 15px;
+}
+
+.edu-institution {
+    font-weight: 600;
+    margin: 5px 0;
+}
+
+.edu-duration {
+    color: #aaa;
+    font-size: 0.95em;
+}
